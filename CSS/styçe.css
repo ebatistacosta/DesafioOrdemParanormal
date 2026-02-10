@@ -1,0 +1,13 @@
+.navbar .nav-link,
+.navbar .navbar-brand{
+    color: darkred !important;
+    font-family: Creepster;
+    font-size: 22px;
+    
+}
+ img {
+    width: 60px;
+    height: 50px;
+    margin: 0px;
+    display: flex;
+ }
