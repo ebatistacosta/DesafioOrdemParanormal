@@ -27,8 +27,15 @@
  .titulo {
     font-family: Oswald;
     font-size: 50px;
-    color: black;
+    color: white;
     padding-top: 50px;
     font-weight: 900;
     
+ }
+
+ .btn {
+   background-color: black;
+   border: solid black;
+   font-family: Oswald;
+   color: gray;
  }
